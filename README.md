@@ -20,7 +20,7 @@ We have to implement the following features:
 * All the messages sent from one client to a **channel** have to be forwarded to every other client that joined the **channel**.
 * We must have **operators** and regular users.
 
-We have to implements the following commands that are specific to **operators**:
+We have to implement the following commands that are specific to **operators**:
 * ```KICK``` - Eject a client from a channel.
 * ```INVITE``` - Invite a client to a channel.
 * ```TOPIC``` -  Change or view the channel topic.
