@@ -70,5 +70,5 @@ Now, with a connected client, you can request the bot with this following comman
 ```
 ***
 Made by:
-* Ismérie George: <ismerie.george@gmail.com>
+* Ismérie George: [@Ismerie](https://github.com/Ismerie) <ismerie.george@gmail.com>
 * Thibaut Charpentier: <thibaut.charpentier42@gmail.com>
